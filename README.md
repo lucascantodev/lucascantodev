@@ -6,7 +6,7 @@
 - 🚹 Pronouns: He/Him
 - 🎓 IT Technician by IFRN Campus Caicó
 - 👨‍💻 I am currently studying Computer Information Systems at UFRN Campus CERES        
-- 📚 I am studying a little bit of everything: Python, Javascript, Html and Css
+- 📚 I am studying a little bit of everything: Javascript, Html and Css
 - 🧠 I am constantly changing, always trying to find the best version of myself
 <br><br>
 
@@ -15,6 +15,8 @@
   <img align="center" alt="Lucas-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Lucas-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="Lucas-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img align="center" alt="Lucas-Bulma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg"/>
+
   <img align="center" alt="Lucas-Figma" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 </div>
 <br><br><br><br><br>
