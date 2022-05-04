@@ -6,7 +6,7 @@
 - 🚹 Pronouns: He/Him
 - 🎓 IT Technician by IFRN Campus Caicó
 - 👨‍💻 I am currently studying Computer Information Systems at UFRN Campus CERES        
-- 📚 I am studying a little bit of everything: Javascript, Html, Css and Python
+- 📚 I am studying a little bit of everything: Javascript, Html, Css
 - 🧠 I am constantly changing, always trying to find the best version of myself
 <br><br>
 
