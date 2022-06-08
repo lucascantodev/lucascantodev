@@ -1,12 +1,11 @@
 
-<img align="right" widht="590em" height="590em" src="https://raw.githubusercontent.com/gist/lucascantodev/75be1a77f7b28df6b13397320a49591a/raw/096e93e95b2158d19c3e74de921da12c725c5ac1/githubcard.svg"/>
-<h1 align="left">Hey What's up? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Lucas Canto</h1>
+<h1 align="left">I'm Lucas Canto <img src="https://img.icons8.com/color/96/lively-wallpaper.png" height="35" width="35"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucascantodev&color=blueviolet" alt="Profile views"/> </p>
 
 - 🚹 Pronouns: He/Him
 - 🎓 IT Technician by IFRN Campus Caicó
 - 👨‍💻 I am currently studying Computer Information Systems at UFRN Campus CERES        
-- 📚 I am studying a little bit of everything: Javascript, Html, Css
+- 📚 Studying: JavaScript and React
 - 🧠 I am constantly changing, always trying to find the best version of myself
 <br><br>
 
