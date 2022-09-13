@@ -18,13 +18,6 @@
 
   <img align="center" alt="Lucas-Figma" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 </div>
-<br><br><br><br><br>
-
-<h2>📊Github Analytics:</h2>
-<div style="align: center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascantodev&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascantodev&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
 
 <div>
   <br>
