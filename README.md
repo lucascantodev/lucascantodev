@@ -2,15 +2,15 @@
 <h1 align="left">I'm Lucas Canto <img src="https://img.icons8.com/color/96/lively-wallpaper.png" height="35" width="35"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucascantodev&color=blueviolet" alt="Profile views"/> </p>
 
-- 🚹 Pronouns: He/Him
-- 🎓 IT Technician by IFRN Campus Caicó
-- 👨‍💻 I am currently studying Computer Information Systems at UFRN Campus CERES        
-- 📚 Studying: JavaScript and React
-- 🧠 I am constantly changing, always trying to find the best version of myself
+🇧🇷 Brazilian<br>
+🎓 IT Technician and currently studying Computer Information Systems         
+📚 Studying A LOT (no kidding)
+<br>
+🧠 I am constantly changing, always trying to find the best version of myself
 <br><br>
 
 <div align="left"style="display: inline-block; padding: auto;">
-  <h2>🌐Tecnologias que domino:</h2>
+  <h2>🌐Technologies I am studying:</h2>
   <img align="center" alt="Lucas-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Lucas-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="Lucas-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
@@ -21,8 +21,7 @@
 
 <div>
   <br>
-  <h2>Contato:</h2>
-  <a href="https://www.instagram.com/lucaascnto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <h2>Contact:</h2>
  <a href="https://twitter.com/Kamtius" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lucascantodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucascanto37281/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
