@@ -4,7 +4,7 @@
 
 <img align="center" alt="Lucas-Country" height="30" width="30" src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1e7-1f1f7.png"/> Brazilian
 <br>
-<img align="center" alt="Lucas-GraduationCap" height="30" width="30" src="https://em-content.zobj.net/thumbs/120/apple/325/graduation-cap_1f393.png"/> IT Technician and currently studying Computer Information Systems         
+<img align="center" alt="Lucas-GraduationCap" height="30" width="30" src="https://em-content.zobj.net/thumbs/120/apple/325/graduation-cap_1f393.png"/> IT Technician and currently studying Internet Systems         
 <img align="center" alt="Lucas-Brain" height="30" width="30" src="https://em-content.zobj.net/thumbs/120/apple/325/brain_1f9e0.png"/> I am constantly changing, always trying to find the best version of myself
 <br><br>
 
